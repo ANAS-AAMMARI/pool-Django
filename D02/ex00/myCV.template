@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conquering Silicon Valley!</title>
+</head>
+
+<body>
+
+    <h1>My CV</h1>
+    <h2>Personal Information</h2>
+    <p>Name: {Name}</p>
+    <p>surName: {surName}</p>
+    <p>Age: {Age}</p>
+    <!-- profession -->
+    <h2>Profession</h2>
+    <p>{Profession}</p>
+    <!-- education -->
+    <h2>Education</h2>
+    <p>{Education}</p>
+    <!-- experience -->
+    <h2>Experience</h2>
+    <p>{Experience}</p>
+</body>
+
+</html>
